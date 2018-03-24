@@ -1,2 +1,3 @@
 # hello-word
-the basic
+the basic of the GitHub Tutorial
+Today i try to use my first GitHub
